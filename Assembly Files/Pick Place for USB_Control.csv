@@ -1,206 +1,201 @@
-"Designator","Footprint","Mid X","Mid Y","Ref X","Ref Y","Pad X","Pad Y","Layer","Rotation","Comment"
-""
-"FD3","Fiducial_Round","2840mil","160mil","2840mil","160mil","2840mil","160mil","T","0.00","Fiducial Mark"
-"FD2","Fiducial_Round","2860mil","2155mil","2860mil","2155mil","2860mil","2155mil","T","0.00","Fiducial Mark"
-"FD1","Fiducial_Round","80mil","520mil","80mil","520mil","80mil","520mil","T","0.00","Fiducial Mark"
-"R35","SMD_RES_0402","2250mil","1825mil","2250mil","1825mil","2232.283mil","1825mil","T","180.00","49.9"
-"C27","SMD_CAP_0402","2250mil","1790mil","2250mil","1790mil","2267.717mil","1790mil","T","360.00","0.047uF"
-"C26","SMD_CAP_0402","2250mil","1755mil","2250mil","1755mil","2267.717mil","1755mil","T","360.00","0.1uF"
-"u10","SG-3040LC","1195mil","450mil","1195mil","450mil","1145.787mil","402.756mil","T","90.00","SG-3040LC"
-"R57","SMD_Resistor_0603","2290mil","2200mil","2290mil","2200mil","2317.5mil","2200mil","T","360.00","1k"
-"R56","SMD_Resistor_0603","2050mil","2200mil","2050mil","2200mil","2077.5mil","2200mil","T","360.00","1k"
-"L13","CBC3225T101MR","2310mil","2115mil","2310mil","2115mil","2254.685mil","2115mil","T","360.00","Ferrite Bead"
-"L12","CIG21L4R7MNE","2050mil","2140mil","2050mil","2140mil","2015.158mil","2140mil","T","360.00","Ferrite Bead"
-"L11","BLM18KG601SN1D","2465mil","2095mil","2465mil","2095mil","2437.5mil","2095mil","T","360.00","Ferrite Bead"
-"C77","SMD_CAP_0402","2465mil","2200mil","2465mil","2200mil","2482.717mil","2200mil","T","360.00",".1uF"
-"C76","SMD_Capacitor_0603","2465mil","2150mil","2465mil","2150mil","2492.5mil","2150mil","T","360.00","4.7uF"
-"U8","DRY6","2370mil","1964.842mil","2370mil","1964.842mil","2389.685mil","1980mil","T","270.00","TPS62231DRYT"
-"L5","LQM21PN2R2MC0D","2480mil","1945mil","2480mil","1945mil","2480mil","1979.842mil","T","270.00","Ferrite Bead"
-"J2","PCBComponent_1_-_duplicate","2750mil","315.079mil","2750mil","-55mil","2777.559mil","567.047mil","T","90.00","DC-Power Jack"
-"C75","SMD_Capacitor_0603","2370mil","1905mil","2370mil","1905mil","2342.5mil","1905mil","T","180.00","4.7uF"
-"C74","SMD_Capacitor_0603","2290mil","1975mil","2290mil","1975mil","2290mil","1947.5mil","T","270.00","2.2uF"
-"U4","WQFN48_for_DS90UB914A","1775mil","1630mil","1775mil","1630mil","1641.142mil","1738.268mil","T","0.00","DS90UR914A"
-"TP2","TESTPIN","1590mil","1870mil","1590mil","1870mil","1590mil","1870mil","T","0.00","TESTPIN"
-"TP1","TESTPIN","140mil","1795mil","140mil","1795mil","140mil","1795mil","T","360.00","TESTPIN"
-"SW2","218-4LPST","1220mil","1740mil","1370mil","1665mil","1370mil","1665mil","T","180.00","SW_DIP_4Position"
-"R46","SMD_Resistor_0603","2035mil","2065mil","2035mil","2065mil","2007.5mil","2065mil","T","180.00","?"
-"R45","SMD_Resistor_0603","2035mil","1830mil","2035mil","1830mil","2007.5mil","1830mil","T","180.00","?"
-"R44","SMD_Resistor_0603","2035mil","1930mil","2035mil","1930mil","2007.5mil","1930mil","T","180.00","?"
-"R43","SMD_Resistor_0603","2035mil","2020mil","2035mil","2020mil","2062.5mil","2020mil","T","360.00","10k"
-"R42","SMD_Resistor_0603","2035mil","1875mil","2035mil","1875mil","2062.5mil","1875mil","T","360.00","10k"
-"R41","SMD_Resistor_0603","2035mil","1975mil","2035mil","1975mil","2062.5mil","1975mil","T","360.00","10k"
-"R40","SMD_Resistor_0603","1310mil","1555mil","1310mil","1555mil","1310mil","1527.5mil","T","270.00","10k"
-"R39","SMD_Resistor_0603","1260mil","1555mil","1260mil","1555mil","1260mil","1527.5mil","T","270.00","10k"
-"R38","SMD_Resistor_0603","1210mil","1555mil","1210mil","1555mil","1210mil","1527.5mil","T","270.00","10k"
-"R37","SMD_Resistor_0603","1160mil","1555mil","1160mil","1555mil","1160mil","1527.5mil","T","270.00","10k"
-"R34","SMD_RES_0402","1725mil","1905mil","1725mil","1905mil","1707.283mil","1905mil","T","180.00","49.9"
-"L4","BLM18KG601SN1D","1910mil","2065mil","1910mil","2065mil","1937.5mil","2065mil","T","180.00","Ferrite Bead"
-"L3","BLM18KG601SN1D","1580mil","2105mil","1580mil","2105mil","1552.5mil","2105mil","T","360.00","Ferrite Bead"
-"C30","SMD_Capacitor_0603","2035mil","1650mil","2035mil","1650mil","2062.5mil","1650mil","T","360.00","10uF"
-"C29","SMD_Capacitor_0603","1805mil","1405mil","1805mil","1405mil","1805mil","1377.5mil","T","270.00","0.01uF"
-"C28","SMD_Capacitor_0603","1430mil","1640mil","1430mil","1640mil","1430mil","1667.5mil","T","90.00","0.01uF"
-"C25","SMD_Capacitor_0603","2035mil","1560mil","2035mil","1560mil","2062.5mil","1560mil","T","360.00","0.01uF"
-"C24","SMD_Capacitor_0603","1475mil","1640mil","1475mil","1640mil","1475mil","1667.5mil","T","90.00",".1uF"
-"C23","SMD_Capacitor_0603","1520mil","1640mil","1520mil","1640mil","1520mil","1667.5mil","T","90.00","4.7uF"
-"C22","SMD_CAP_0402","1745mil","1850mil","1745mil","1850mil","1745mil","1867.717mil","T","90.00","0.047uF"
-"C21","SMD_CAP_0402","1800mil","1870mil","1800mil","1870mil","1800mil","1887.717mil","T","90.00","0.1uF"
-"C20","SMD_Capacitor_0603","1460mil","1795mil","1460mil","1795mil","1432.5mil","1795mil","T","180.00",".1uF"
-"C19","SMD_Capacitor_0603","1460mil","1840mil","1460mil","1840mil","1432.5mil","1840mil","T","180.00","0.01uF"
-"C18","SMD_Capacitor_0603","2035mil","1740mil","2035mil","1740mil","2062.5mil","1740mil","T","360.00","22uF"
-"C17","SMD_Capacitor_0603","2035mil","1785mil","2035mil","1785mil","2062.5mil","1785mil","T","360.00",".1uF"
-"C16","SMD_Capacitor_0603","2035mil","1695mil","2035mil","1695mil","2062.5mil","1695mil","T","360.00","0.01uF"
-"C15","SMD_Capacitor_0603","1910mil","1830mil","1910mil","1830mil","1882.5mil","1830mil","T","180.00",".1uF"
-"C14","SMD_Capacitor_0603","1910mil","1875mil","1910mil","1875mil","1882.5mil","1875mil","T","180.00","0.01uF"
-"C13","SMD_Capacitor_0603","1910mil","2020mil","1910mil","2020mil","1937.5mil","2020mil","T","360.00","22uF"
-"C12","SMD_Capacitor_0603","1910mil","1975mil","1910mil","1975mil","1937.5mil","1975mil","T","360.00",".1uF"
-"C11","SMD_Capacitor_0603","1910mil","1930mil","1910mil","1930mil","1937.5mil","1930mil","T","360.00","0.01uF"
-"C10","SMD_Capacitor_0603","1580mil","2060mil","1580mil","2060mil","1552.5mil","2060mil","T","180.00","4.7uF"
-"C9","SMD_Capacitor_0603","1580mil","2010mil","1580mil","2010mil","1552.5mil","2010mil","T","180.00",".1uF"
-"C8","SMD_Capacitor_0603","1580mil","1965mil","1580mil","1965mil","1552.5mil","1965mil","T","180.00","0.01uF"
-"C7","SMD_Capacitor_0603","1550mil","1530mil","1550mil","1530mil","1522.5mil","1530mil","T","180.00",".1uF"
-"C6","SMD_Capacitor_0603","1550mil","1480mil","1550mil","1480mil","1522.5mil","1480mil","T","180.00","0.01uF"
-"C82","SMD_Capacitor_0603","990mil","675mil","990mil","675mil","962.5mil","675mil","T","180.00","Capacitor"
-"*1","FXO_HC53","995mil","780mil","995mil","780mil","945mil","735.709mil","T","90.00","FXO_HC53"
-"R10","SMD_Resistor_0603","1455mil","1295mil","1455mil","1295mil","1455mil","1322.5mil","T","90.00","Resistor"
-"R9","SMD_Resistor_0603","1405mil","1295mil","1405mil","1295mil","1405mil","1322.5mil","T","90.00","Resistor"
-"J5","SMA_Right_Angle_Through_Hole","750mil","2085.001mil","750mil","2085.001mil","750mil","2085.001mil","T","0.00","SMA"
-"J4","SMA_Right_Angle_Through_Hole","1335mil","2075mil","1335mil","2075mil","1335mil","2075mil","T","0.00","SMA"
-"J3","SMA_Right_Angle_Through_Hole","165mil","2075.001mil","165mil","2075.001mil","165mil","2075.001mil","T","360.00","SMA"
-"U15","SOT23127P600-8N","2830.001mil","1275.001mil","2830.001mil","1275.001mil","2790.63mil","1312.402mil","T","0.00","transistor NPN"
-"U14","LED_0603","2990.001mil","1055.001mil","2990.001mil","1055.001mil","2990.001mil","1025.501mil","T","90.00","LED"
-"R65","SMD_Resistor_0603","2675mil","1285mil","2675mil","1285mil","2675mil","1312.5mil","T","90.00","Resistor"
-"R64","SMD_Resistor_0603","2675mil","1065mil","2675mil","1065mil","2675mil","1092.5mil","T","90.00","Resistor"
-"R63","SMD_Resistor_0603","2725.001mil","1065.001mil","2725.001mil","1065.001mil","2725.001mil","1037.501mil","T","270.00","Resistor"
-"L8","MPZ2012S601A","2175mil","205mil","2175mil","205mil","2140.157mil","205mil","T","360.00","Ferrite Bead"
-"C69","SMD_Capacitor_0603","1395.001mil","845.001mil","1395.001mil","845.001mil","1422.501mil","845.001mil","T","360.00","Capacitor"
-"C1","SMD_Capacitor_0603","1955mil","185.001mil","1955.001mil","185.001mil","1927.5mil","185.001mil","T","180.00","Capacitor"
-"C2","SMD_Capacitor_0603","1670mil","510mil","1670mil","510mil","1670mil","537.5mil","T","90.00","Capacitor"
-"C3","SMD_Capacitor_0603","1715.001mil","510.001mil","1715.001mil","510.001mil","1715.001mil","537.501mil","T","90.00","Capacitor"
-"C4","SMD_Capacitor_0603","990mil","205.001mil","990mil","205.001mil","990mil","177.501mil","T","270.00","Capacitor"
-"C5","SMD_Capacitor_0603","895mil","320.001mil","895mil","320.001mil","867.5mil","320.001mil","T","180.00","Capacitor"
-"C31","SMD_Capacitor_0603","490mil","990mil","490mil","990mil","517.5mil","990mil","T","360.00","Capacitor"
-"C32","SMD_Capacitor_0603","490mil","945.001mil","490mil","945.001mil","517.5mil","945.001mil","T","360.00","Capacitor"
-"C33","A","200mil","1110.001mil","200mil","1110.001mil","255.119mil","1110.001mil","T","180.00","T491A"
-"C34","A","1115.001mil","70.001mil","1115.001mil","70.001mil","1170.119mil","70.001mil","T","180.00","T491A"
-"C35","D","120.001mil","865.001mil","120.001mil","865.001mil","120.001mil","990.985mil","T","270.00","T495D"
-"C36","D","115.001mil","1475.001mil","115.001mil","1475.001mil","115.001mil","1600.985mil","T","270.00","T495D"
-"C37","SMD_Capacitor_0603","1395mil","750mil","1395mil","750mil","1422.5mil","750mil","T","360.00","Capacitor"
-"C38","SMD_Capacitor_0603","1395mil","700mil","1395mil","700mil","1422.5mil","700mil","T","360.00","Capacitor"
-"C40","SMD_Capacitor_0603","1640.001mil","1130.001mil","1640.001mil","1130.001mil","1640.001mil","1102.501mil","T","270.00","Capacitor"
-"C41","SMD_Capacitor_0603","1395mil","650mil","1395mil","650mil","1422.5mil","650mil","T","360.00","Capacitor"
-"C42","SMD_Capacitor_0603","1395mil","1025mil","1395mil","1025mil","1422.5mil","1025mil","T","360.00","Capacitor"
-"C43","SMD_Capacitor_0603","1395mil","980mil","1395mil","980mil","1422.5mil","980mil","T","360.00","Capacitor"
-"C44","SMD_Capacitor_0603","1395mil","600mil","1395mil","600mil","1422.5mil","600mil","T","360.00","Capacitor"
-"C45","SMD_Capacitor_0603","1685mil","1130mil","1685mil","1130mil","1685mil","1102.5mil","T","270.00","Capacitor"
-"C46","SMD_Capacitor_0603","1395mil","890mil","1395mil","890mil","1422.5mil","890mil","T","360.00","Capacitor"
-"C47","SMD_Capacitor_0603","1945.001mil","850.001mil","1945.001mil","850.001mil","1917.501mil","850.001mil","T","180.00","Capacitor"
-"C48","SMD_Capacitor_0603","1945.001mil","1020.001mil","1945.001mil","1020.001mil","1917.501mil","1020.001mil","T","180.00","Capacitor"
-"C49","SMD_Capacitor_0603","1395mil","800mil","1395mil","800mil","1422.5mil","800mil","T","360.00","Capacitor"
-"C50","SMD_Capacitor_0603","1945mil","515mil","1945mil","515mil","1917.5mil","515mil","T","180.00","Capacitor"
-"C51","SMD_Capacitor_0603","1945.001mil","560.001mil","1945.001mil","560.001mil","1917.501mil","560.001mil","T","180.00","Capacitor"
-"C52","SMD_Capacitor_0603","1585.001mil","510.001mil","1585.001mil","510.001mil","1585.001mil","537.501mil","T","90.00","Capacitor"
-"C53","SMD_Capacitor_0603","2175mil","70mil","2175mil","70mil","2147.5mil","70mil","T","180.00","Capacitor"
-"C54","SMD_Capacitor_0603","1945.001mil","630.001mil","1945.001mil","630.001mil","1917.501mil","630.001mil","T","180.00","Capacitor"
-"C55","SMD_Capacitor_0603","2440mil","490mil","2440mil","490mil","2412.5mil","490mil","T","180.00","Capacitor"
-"C56","SMD_Capacitor_0603","1945.001mil","795.001mil","1945.001mil","795.001mil","1917.501mil","795.001mil","T","180.00","Capacitor"
-"C57","SMD_Capacitor_0603","2440mil","680mil","2440mil","680mil","2412.5mil","680mil","T","180.00","Capacitor"
-"C58","SMD_Capacitor_0603","1395mil","935mil","1395mil","935mil","1422.5mil","935mil","T","360.00","Capacitor"
-"C59","SMD_Capacitor_0603","1595mil","1130mil","1595mil","1130mil","1595mil","1102.5mil","T","270.00","Capacitor"
-"C60","SMD_Capacitor_0603","990mil","1045.001mil","990mil","1045.001mil","962.5mil","1045.001mil","T","180.00","Capacitor"
-"C61","SMD_Capacitor_0603","1945.001mil","965.001mil","1945.001mil","965.001mil","1917.501mil","965.001mil","T","180.00","Capacitor"
-"C62","SMD_Capacitor_0603","1945.001mil","910.001mil","1945.001mil","910.001mil","1917.501mil","910.001mil","T","180.00","Capacitor"
-"C63","SMD_Capacitor_0603","2115mil","895mil","2115mil","895mil","2087.5mil","895mil","T","180.00","Capacitor"
-"C64","SMD_Capacitor_0603","2115.001mil","850.001mil","2115.001mil","850.001mil","2087.501mil","850.001mil","T","180.00","Capacitor"
-"C65","SMD_Capacitor_0603","1945.001mil","685.001mil","1945.001mil","685.001mil","1917.501mil","685.001mil","T","180.00","Capacitor"
-"C66","SMD_Capacitor_0603","1945.001mil","740.001mil","1945.001mil","740.001mil","1917.501mil","740.001mil","T","180.00","Capacitor"
-"C67","Capacitor_Polarized_0603","465.5mil","1400mil","415mil","1400mil","438mil","1400mil","T","360.00","Capacitor Polarized"
-"C70","SMD_Capacitor_0603","465.315mil","1355.315mil","465.315mil","1355.315mil","437.815mil","1355.315mil","T","180.00","Capacitor"
-"C71","Capacitor_Polarized_0603","695.5mil","1340mil","645mil","1340mil","668mil","1340mil","T","360.00","Capacitor Polarized"
-"C73","SMD_Capacitor_0603","490.315mil","1135.315mil","490.315mil","1135.315mil","517.814mil","1135.315mil","T","360.00","Capacitor"
-"C68","Capacitor_Polarized_0603","295mil","1690.501mil","295mil","1640.001mil","295mil","1663.001mil","T","90.00","Capacitor Polarized"
-"C72","Capacitor_Polarized_0603","534.5mil","1545.001mil","585mil","1545.001mil","562mil","1545.001mil","T","180.00","Capacitor Polarized"
-"C78","SMD_Capacitor_0603","300mil","520mil","300mil","520mil","272.5mil","520mil","T","180.00","Capacitor"
-"C79","SMD_Capacitor_0603","1195.001mil","340.001mil","1195.001mil","340.001mil","1167.501mil","340.001mil","T","180.00","Capacitor"
-"C80","SMD_Capacitor_0603","2005.001mil","340.001mil","2005.001mil","340.001mil","2032.501mil","340.001mil","T","360.00","Capacitor"
-"C81","SMD_Capacitor_0603","2230.001mil","475.001mil","2230.001mil","475.001mil","2202.501mil","475.001mil","T","180.00","Capacitor"
-"J1","PCBComponent_1","1560.001mil","105.001mil","1560.001mil","105.001mil","1407.501mil","157.751mil","T","360.00","USB3 MicroB"
-"K1","JMPR2","2500.001mil","960.001mil","2550.001mil","960.001mil","2550.001mil","960.001mil","T","270.00","JMPR2"
-"K2","JMPR2","2500.001mil","1090.001mil","2550.001mil","1090.001mil","2550.001mil","1090.001mil","T","270.00","JMPR2"
-"K3","JMPR2","2500.001mil","1220.001mil","2550.001mil","1220.001mil","2550.001mil","1220.001mil","T","270.00","JMPR2"
-"L1","BLM21PG221SN1D_0805","1305.001mil","225.001mil","1305.001mil","225.001mil","1339.842mil","225.001mil","T","180.00","Ferrite Bead"
-"L2","BLM21PG221SN1D_0805","1955mil","90.001mil","1955.001mil","90.001mil","1989.842mil","90.001mil","T","180.00","Ferrite Bead"
-"L6","MPZ2012S601A","1385.001mil","1135.001mil","1385.001mil","1135.001mil","1350.159mil","1135.001mil","T","360.00","Ferrite Bead"
-"L7","MPZ2012S601A","2175mil","135mil","2175mil","135mil","2209.842mil","135mil","T","180.00","Ferrite Bead"
-"L9","MPZ2012S601A","2440mil","550mil","2440mil","550mil","2474.842mil","550mil","T","180.00","Ferrite Bead"
-"L10","MPZ2012S601A","2440mil","620mil","2440mil","620mil","2474.842mil","620mil","T","180.00","Ferrite Bead"
-"R1","SMD_Resistor_0603","2590mil","765mil","2590mil","765mil","2617.5mil","765mil","T","360.00","10K"
-"R2","SMD_Resistor_0603","2590mil","810mil","2590mil","810mil","2617.5mil","810mil","T","360.00","Resistor"
-"R3","SMD_Resistor_0603","2590.001mil","855.001mil","2590.001mil","855.001mil","2617.501mil","855.001mil","T","360.00","Resistor"
-"R4","SMD_Resistor_0603","1540mil","510mil","1540mil","510mil","1540mil","537.5mil","T","90.00","Resistor"
-"R5","SMD_Resistor_0603","2240.001mil","625.001mil","2240.001mil","625.001mil","2212.501mil","625.001mil","T","180.00","Resistor"
-"R6","SMD_Resistor_0603","2240.001mil","1120.001mil","2240.001mil","1120.001mil","2267.501mil","1120.001mil","T","360.00",""=Value""
-"R7","SMD_Resistor_0603","2240.001mil","1065.001mil","2240.001mil","1065.001mil","2267.501mil","1065.001mil","T","360.00","Resistor"
-"R8","SMD_Resistor_0603","2240.001mil","1010.001mil","2240.001mil","1010.001mil","2267.501mil","1010.001mil","T","360.00","Resistor"
-"R12","SMD_Resistor_0603","710mil","990mil","710mil","990mil","682.5mil","990mil","T","180.00","Resistor"
-"R13","SMD_Resistor_0603","2100mil","1295mil","2100mil","1295mil","2100mil","1322.5mil","T","90.00","Resistor"
-"R14","SMD_Resistor_0603","710mil","945.001mil","710mil","945.001mil","682.5mil","945.001mil","T","180.00","Resistor"
-"R15","SMD_Resistor_0603","2055mil","1295mil","2055mil","1295mil","2055mil","1322.5mil","T","90.00","Resistor"
-"R11","SMD_Resistor_0603","2010.001mil","1295.001mil","2010.001mil","1295.001mil","2010.001mil","1322.501mil","T","90.00","Resistor"
-"R16","SMD_Resistor_0603","2190mil","1295mil","2190mil","1295mil","2190mil","1322.5mil","T","90.00","Resistor"
-"R17","SMD_Resistor_0603","2145mil","1295mil","2145mil","1295mil","2145mil","1322.5mil","T","90.00","Resistor"
-"R18","SMD_Resistor_0603","1905mil","1295mil","1905mil","1295mil","1905mil","1322.5mil","T","90.00","Resistor"
-"R19","SMD_Resistor_0603","1505mil","1295mil","1505mil","1295mil","1505mil","1322.5mil","T","90.00","Resistor"
-"R20","SMD_Resistor_0603","1555mil","1295mil","1555mil","1295mil","1555mil","1322.5mil","T","90.00","Resistor"
-"R21","SMD_Resistor_0603","1605mil","1295mil","1605mil","1295mil","1605mil","1322.5mil","T","90.00","Resistor"
-"R22","SMD_Resistor_0603","1655.001mil","1295.001mil","1655.001mil","1295.001mil","1655.001mil","1322.501mil","T","90.00","Resistor"
-"R23","SMD_Resistor_0603","1705mil","1295mil","1705mil","1295mil","1705mil","1322.5mil","T","90.00","Resistor"
-"R24","SMD_Resistor_0603","1755mil","1295mil","1755mil","1295mil","1755mil","1322.5mil","T","90.00","Resistor"
-"R25","SMD_Resistor_0603","1805mil","1295mil","1805mil","1295mil","1805mil","1322.5mil","T","90.00","Resistor"
-"R26","SMD_Resistor_0603","2240.001mil","900.001mil","2240.001mil","900.001mil","2267.501mil","900.001mil","T","360.00","Resistor"
-"R27","SMD_Resistor_0603","2240.001mil","790.001mil","2240.001mil","790.001mil","2267.501mil","790.001mil","T","360.00","Resistor"
-"R28","SMD_Resistor_0603","2240.001mil","680.001mil","2240.001mil","680.001mil","2267.501mil","680.001mil","T","360.00","Resistor"
-"R29","SMD_Resistor_0603","1855mil","1295mil","1855mil","1295mil","1855mil","1322.5mil","T","90.00","Resistor"
-"R30","SMD_Resistor_0603","2240.001mil","955.001mil","2240.001mil","955.001mil","2212.501mil","955.001mil","T","180.00","Resistor"
-"R31","SMD_Resistor_0603","2240.001mil","845.001mil","2240.001mil","845.001mil","2212.501mil","845.001mil","T","180.00","Resistor"
-"R32","SMD_Resistor_0603","2240.001mil","735.001mil","2240.001mil","735.001mil","2212.501mil","735.001mil","T","180.00","Resistor"
-"R33","SMD_Resistor_0603","895mil","90.001mil","895mil","90.001mil","922.5mil","90.001mil","T","360.00","Resistor"
-"R47","SMD_Resistor_0603","300mil","645.001mil","300mil","645.001mil","272.5mil","645.001mil","T","180.00","Resistor"
-"R48","SMD_Resistor_0603","300mil","700.001mil","300mil","700.001mil","272.5mil","700.001mil","T","180.00","Resistor"
-"R49","SMD_Resistor_0603","300mil","755.001mil","300mil","755.001mil","272.5mil","755.001mil","T","180.00","Resistor"
-"R50","SMD_Resistor_0603","695.314mil","1295.315mil","695.314mil","1295.315mil","667.814mil","1295.315mil","T","180.00","Resistor"
-"R53","SMD_Resistor_0603","695mil","1250mil","695mil","1250mil","667.5mil","1250mil","T","180.00","Resistor"
-"R55","SMD_Resistor_0603","695.314mil","1185.315mil","695.314mil","1185.315mil","722.814mil","1185.315mil","T","360.00","Resistor"
-"R51","SMD_Resistor_0603","730mil","1760mil","730mil","1760mil","757.5mil","1760mil","T","360.00","Resistor"
-"R52","SMD_Resistor_0603","730mil","1715.001mil","730mil","1715.001mil","757.5mil","1715.001mil","T","360.00","Resistor"
-"R54","SMD_Resistor_0603","730mil","1670mil","730mil","1670mil","702.5mil","1670mil","T","180.00","Resistor"
-"R58","SMD_Resistor_0603","300mil","475.001mil","300mil","475.001mil","327.5mil","475.001mil","T","360.00","Resistor"
-"R59","SMD_Resistor_0603","1235mil","600mil","1235mil","600mil","1235mil","627.5mil","T","90.00","Resistor"
-"SW1","218-4LPST","2889.999mil","789.999mil","2739.999mil","864.999mil","2739.999mil","864.999mil","T","360.00","SW_DIP_4Position"
-"SW3","218-4LPST","585mil","225.001mil","510mil","75.001mil","510mil","75.001mil","T","90.00","SW_DIP_4Position"
-"SW4","EVQPAC07K","205mil","230.001mil","205mil","230.001mil","116.418mil","357.953mil","T","0.00","PB_Switch"
-"U1","SP3010-04UTG","1725.001mil","335.001mil","1725.001mil","335.001mil","1686.001mil","318.001mil","T","180.00","ESD_4Channel"
-"U3","TSOP-5___NCP361SNT1G","875mil","205.001mil","875mil","205.001mil","922.245mil","167.599mil","T","180.00","USB Overvoltage Protection"
-"U5","PDIP300-P8","595mil","695.001mil","595mil","695.001mil","445mil","545.001mil","T","90.00","24AA1025-I/P"
-"U6","TI-DRC10-2400X1650TP_V","490.315mil","1240.315mil","490.315mil","1240.315mil","432.245mil","1279.685mil","T","0.00","TPS74801DRCR"
-"U7","TI-D8_N","495mil","1690.001mil","495mil","1690.001mil","400.512mil","1765.001mil","T","360.00","TPS76801QD"
-"u9","NX3225SA","2155.001mil","375.001mil","2155.001mil","375.001mil","2111.693mil","343.505mil","T","90.00","CrystalOSC_General"
-"U2","BGA121C80P11X11_1000X1000X100","1670.001mil","855.001mil","1670.001mil","855.001mil","1827.48mil","697.521mil","T","180.00","EZ FX3 USB"
-"R60","SMD_Resistor_0603","2725mil","1285mil","2725mil","1285mil","2725mil","1257.5mil","T","270.00","Resistor"
-"R61","SMD_Resistor_0603","2725.001mil","1490.001mil","2725.001mil","1490.001mil","2725.001mil","1462.501mil","T","270.00","Resistor"
-"R66","SMD_Resistor_0603","2675mil","1490mil","2675mil","1490mil","2675mil","1517.5mil","T","90.00","Resistor"
-"U11","LED_0603","2990.001mil","1280.001mil","2990.001mil","1280.001mil","2990.001mil","1250.501mil","T","90.00","LED"
-"U12","LED_0603","2985mil","1485mil","2985mil","1485mil","2985mil","1455.5mil","T","90.00","LED"
-"U16","SOT23127P600-8N","2830.001mil","1485.001mil","2830.001mil","1485.001mil","2869.371mil","1485.001mil","T","360.00","transistor NPN"
-"U18","SOT23127P600-8N","2830.001mil","1050.001mil","2830.001mil","1050.001mil","2869.371mil","1050.001mil","T","360.00","transistor NPN"
-"C39","SMD_Capacitor_0603","1395mil","1070mil","1395mil","1070mil","1422.5mil","1070mil","T","360.00","Capacitor"
-"J7","4Pin_Verital_0.1"","2450mil","1660mil","2450mil","1660mil","2450mil","1810mil","T","270.00","4 Pin Connector"
-"J8","4Pin_Verital_0.1"","2550mil","1660mil","2550mil","1660mil","2550mil","1810mil","T","270.00","4 Pin Connector"
-"TP3","TESTPIN","2550mil","1340mil","2550mil","1340mil","2550mil","1340mil","T","0.00","TESTPIN"
-"TP4","TESTPIN","2450mil","1340mil","2450mil","1340mil","2450mil","1340mil","T","0.00","TESTPIN"
-"R36","SMD_Resistor_0603","2035mil","1605mil","2035mil","1605mil","2062.5mil","1605mil","T","360.00","10k"
-"V3P3","Light_Pipe","2985mil","1055mil","2985mil","1055mil","2905mil","975mil","T","0.00","Light Pipe"
-"COAX","Light_Pipe","2985mil","1280mil","2985mil","1280mil","2905mil","1200mil","T","0.00","Light Pipe"
-"LOCK","Light_Pipe","2985mil","1485mil","2985mil","1485mil","2905mil","1405mil","T","0.00","Light Pipe"
-"J6","SSMCX_EDGE","1735mil","2050.295mil","1735mil","2250mil","1789.724mil","2008.071mil","T","0.00","Coax Connector"
-"J9","3Pin_Verital_0.1"_JUMOER","2925mil","1705mil","2925mil","1705mil","2825mil","1705mil","T","360.00","3 Pin Connector"
-
+Designator,Footprint,Mid X,Mid Y,Ref X,Ref Y,Pad X,Pad Y,Layer,Rotation,Comment
+,,,,,,,,,,
+FD3,Fiducial_Round,2840mil,160mil,2840mil,160mil,2840mil,160mil,T,0,Fiducial Mark
+FD2,Fiducial_Round,2860mil,2155mil,2860mil,2155mil,2860mil,2155mil,T,0,Fiducial Mark
+FD1,Fiducial_Round,80mil,520mil,80mil,520mil,80mil,520mil,T,0,Fiducial Mark
+R35,SMD_RES_0402,2250mil,1825mil,2250mil,1825mil,2232.283mil,1825mil,T,180,49.9
+C27,SMD_CAP_0402,2250mil,1790mil,2250mil,1790mil,2267.717mil,1790mil,T,360,0.047uF
+C26,SMD_CAP_0402,2250mil,1755mil,2250mil,1755mil,2267.717mil,1755mil,T,360,0.1uF
+u10,SG-3040LC,1195mil,450mil,1195mil,450mil,1145.787mil,402.756mil,T,90,SG-3040LC
+R57,SMD_Resistor_0603,2290mil,2200mil,2290mil,2200mil,2317.5mil,2200mil,T,360,1k
+R56,SMD_Resistor_0603,2050mil,2200mil,2050mil,2200mil,2077.5mil,2200mil,T,360,1k
+L13,CBC3225T101MR,2310mil,2115mil,2310mil,2115mil,2254.685mil,2115mil,T,360,Ferrite Bead
+L12,CIG21L4R7MNE,2050mil,2140mil,2050mil,2140mil,2015.158mil,2140mil,T,360,Ferrite Bead
+L11,BLM18KG601SN1D,2465mil,2095mil,2465mil,2095mil,2437.5mil,2095mil,T,360,Ferrite Bead
+C77,SMD_CAP_0402,2465mil,2200mil,2465mil,2200mil,2482.717mil,2200mil,T,360,.1uF
+C76,SMD_Capacitor_0603,2465mil,2150mil,2465mil,2150mil,2492.5mil,2150mil,T,360,4.7uF
+U8,DRY6,2370mil,1964.842mil,2370mil,1964.842mil,2389.685mil,1980mil,T,270,TPS62231DRYT
+L5,LQM21PN2R2MC0D,2480mil,1945mil,2480mil,1945mil,2480mil,1979.842mil,T,270,Ferrite Bead
+J2,PCBComponent_1_-_duplicate,2750mil,315.079mil,2750mil,-55mil,2777.559mil,567.047mil,T,90,DC-Power Jack
+C75,SMD_Capacitor_0603,2370mil,1905mil,2370mil,1905mil,2342.5mil,1905mil,T,180,4.7uF
+C74,SMD_Capacitor_0603,2290mil,1975mil,2290mil,1975mil,2290mil,1947.5mil,T,270,2.2uF
+U4,WQFN48_for_DS90UB914A,1775mil,1630mil,1775mil,1630mil,1641.142mil,1738.268mil,T,0,DS90UR914A
+TP2,TESTPIN,1590mil,1870mil,1590mil,1870mil,1590mil,1870mil,T,0,TESTPIN
+TP1,TESTPIN,140mil,1795mil,140mil,1795mil,140mil,1795mil,T,360,TESTPIN
+SW2,218-4LPST,1220mil,1740mil,1370mil,1665mil,1370mil,1665mil,T,180,SW_DIP_4Position
+R46,SMD_Resistor_0603,2035mil,2065mil,2035mil,2065mil,2007.5mil,2065mil,T,180,?
+R45,SMD_Resistor_0603,2035mil,1830mil,2035mil,1830mil,2007.5mil,1830mil,T,180,?
+R44,SMD_Resistor_0603,2035mil,1930mil,2035mil,1930mil,2007.5mil,1930mil,T,180,?
+R43,SMD_Resistor_0603,2035mil,2020mil,2035mil,2020mil,2062.5mil,2020mil,T,360,10k
+R42,SMD_Resistor_0603,2035mil,1875mil,2035mil,1875mil,2062.5mil,1875mil,T,360,10k
+R41,SMD_Resistor_0603,2035mil,1975mil,2035mil,1975mil,2062.5mil,1975mil,T,360,10k
+R40,SMD_Resistor_0603,1310mil,1555mil,1310mil,1555mil,1310mil,1527.5mil,T,270,10k
+R39,SMD_Resistor_0603,1260mil,1555mil,1260mil,1555mil,1260mil,1527.5mil,T,270,10k
+R38,SMD_Resistor_0603,1210mil,1555mil,1210mil,1555mil,1210mil,1527.5mil,T,270,10k
+R37,SMD_Resistor_0603,1160mil,1555mil,1160mil,1555mil,1160mil,1527.5mil,T,270,10k
+R34,SMD_RES_0402,1725mil,1905mil,1725mil,1905mil,1707.283mil,1905mil,T,180,49.9
+L4,BLM18KG601SN1D,1910mil,2065mil,1910mil,2065mil,1937.5mil,2065mil,T,180,Ferrite Bead
+L3,BLM18KG601SN1D,1580mil,2105mil,1580mil,2105mil,1552.5mil,2105mil,T,360,Ferrite Bead
+C30,SMD_Capacitor_0603,2035mil,1650mil,2035mil,1650mil,2062.5mil,1650mil,T,360,10uF
+C29,SMD_Capacitor_0603,1805mil,1405mil,1805mil,1405mil,1805mil,1377.5mil,T,270,0.01uF
+C28,SMD_Capacitor_0603,1430mil,1640mil,1430mil,1640mil,1430mil,1667.5mil,T,90,0.01uF
+C25,SMD_Capacitor_0603,2035mil,1560mil,2035mil,1560mil,2062.5mil,1560mil,T,360,0.01uF
+C24,SMD_Capacitor_0603,1475mil,1640mil,1475mil,1640mil,1475mil,1667.5mil,T,90,.1uF
+C23,SMD_Capacitor_0603,1520mil,1640mil,1520mil,1640mil,1520mil,1667.5mil,T,90,4.7uF
+C22,SMD_CAP_0402,1745mil,1850mil,1745mil,1850mil,1745mil,1867.717mil,T,90,0.047uF
+C21,SMD_CAP_0402,1800mil,1870mil,1800mil,1870mil,1800mil,1887.717mil,T,90,0.1uF
+C20,SMD_Capacitor_0603,1460mil,1795mil,1460mil,1795mil,1432.5mil,1795mil,T,180,.1uF
+C19,SMD_Capacitor_0603,1460mil,1840mil,1460mil,1840mil,1432.5mil,1840mil,T,180,0.01uF
+C18,SMD_Capacitor_0603,2035mil,1740mil,2035mil,1740mil,2062.5mil,1740mil,T,360,22uF
+C17,SMD_Capacitor_0603,2035mil,1785mil,2035mil,1785mil,2062.5mil,1785mil,T,360,.1uF
+C16,SMD_Capacitor_0603,2035mil,1695mil,2035mil,1695mil,2062.5mil,1695mil,T,360,0.01uF
+C15,SMD_Capacitor_0603,1910mil,1830mil,1910mil,1830mil,1882.5mil,1830mil,T,180,.1uF
+C14,SMD_Capacitor_0603,1910mil,1875mil,1910mil,1875mil,1882.5mil,1875mil,T,180,0.01uF
+C13,SMD_Capacitor_0603,1910mil,2020mil,1910mil,2020mil,1937.5mil,2020mil,T,360,22uF
+C12,SMD_Capacitor_0603,1910mil,1975mil,1910mil,1975mil,1937.5mil,1975mil,T,360,.1uF
+C11,SMD_Capacitor_0603,1910mil,1930mil,1910mil,1930mil,1937.5mil,1930mil,T,360,0.01uF
+C10,SMD_Capacitor_0603,1580mil,2060mil,1580mil,2060mil,1552.5mil,2060mil,T,180,4.7uF
+C9,SMD_Capacitor_0603,1580mil,2010mil,1580mil,2010mil,1552.5mil,2010mil,T,180,.1uF
+C8,SMD_Capacitor_0603,1580mil,1965mil,1580mil,1965mil,1552.5mil,1965mil,T,180,0.01uF
+C7,SMD_Capacitor_0603,1550mil,1530mil,1550mil,1530mil,1522.5mil,1530mil,T,180,.1uF
+C6,SMD_Capacitor_0603,1550mil,1480mil,1550mil,1480mil,1522.5mil,1480mil,T,180,0.01uF
+C82,SMD_Capacitor_0603,990mil,675mil,990mil,675mil,962.5mil,675mil,T,180,Capacitor
+*1,FXO_HC53,995mil,780mil,995mil,780mil,945mil,735.709mil,T,90,FXO_HC53
+R10,SMD_Resistor_0603,1455mil,1295mil,1455mil,1295mil,1455mil,1322.5mil,T,90,Resistor
+R9,SMD_Resistor_0603,1405mil,1295mil,1405mil,1295mil,1405mil,1322.5mil,T,90,Resistor
+J5,SMA_Right_Angle_Through_Hole,750mil,2085.001mil,750mil,2085.001mil,750mil,2085.001mil,T,0,SMA
+J4,SMA_Right_Angle_Through_Hole,1335mil,2075mil,1335mil,2075mil,1335mil,2075mil,T,0,SMA
+J3,SMA_Right_Angle_Through_Hole,165mil,2075.001mil,165mil,2075.001mil,165mil,2075.001mil,T,360,SMA
+U15,SOT23127P600-8N,2830.001mil,1275.001mil,2830.001mil,1275.001mil,2790.63mil,1312.402mil,T,0,transistor NPN
+U14,LED_0603,2990.001mil,1055.001mil,2990.001mil,1055.001mil,2990.001mil,1025.501mil,T,90,LED
+R65,SMD_Resistor_0603,2675mil,1285mil,2675mil,1285mil,2675mil,1312.5mil,T,90,Resistor
+R64,SMD_Resistor_0603,2675mil,1065mil,2675mil,1065mil,2675mil,1092.5mil,T,90,Resistor
+R63,SMD_Resistor_0603,2725.001mil,1065.001mil,2725.001mil,1065.001mil,2725.001mil,1037.501mil,T,270,Resistor
+L8,MPZ2012S601A,2175mil,205mil,2175mil,205mil,2140.157mil,205mil,T,360,Ferrite Bead
+C69,SMD_Capacitor_0603,1395.001mil,845.001mil,1395.001mil,845.001mil,1422.501mil,845.001mil,T,360,Capacitor
+C1,SMD_Capacitor_0603,1955mil,185.001mil,1955.001mil,185.001mil,1927.5mil,185.001mil,T,180,Capacitor
+C2,SMD_Capacitor_0603,1670mil,510mil,1670mil,510mil,1670mil,537.5mil,T,90,Capacitor
+C3,SMD_Capacitor_0603,1715.001mil,510.001mil,1715.001mil,510.001mil,1715.001mil,537.501mil,T,90,Capacitor
+C4,SMD_Capacitor_0603,990mil,205.001mil,990mil,205.001mil,990mil,177.501mil,T,270,Capacitor
+C5,SMD_Capacitor_0603,895mil,320.001mil,895mil,320.001mil,867.5mil,320.001mil,T,180,Capacitor
+C31,SMD_Capacitor_0603,490mil,990mil,490mil,990mil,517.5mil,990mil,T,360,Capacitor
+C32,SMD_Capacitor_0603,490mil,945.001mil,490mil,945.001mil,517.5mil,945.001mil,T,360,Capacitor
+C33,A,200mil,1110.001mil,200mil,1110.001mil,255.119mil,1110.001mil,T,180,T491A
+C34,A,1115.001mil,70.001mil,1115.001mil,70.001mil,1170.119mil,70.001mil,T,180,T491A
+C35,D,120.001mil,865.001mil,120.001mil,865.001mil,120.001mil,990.985mil,T,270,T495D
+C36,D,115.001mil,1475.001mil,115.001mil,1475.001mil,115.001mil,1600.985mil,T,270,T495D
+C37,SMD_Capacitor_0603,1395mil,750mil,1395mil,750mil,1422.5mil,750mil,T,360,Capacitor
+C38,SMD_Capacitor_0603,1395mil,700mil,1395mil,700mil,1422.5mil,700mil,T,360,Capacitor
+C40,SMD_Capacitor_0603,1640.001mil,1130.001mil,1640.001mil,1130.001mil,1640.001mil,1102.501mil,T,270,Capacitor
+C41,SMD_Capacitor_0603,1395mil,650mil,1395mil,650mil,1422.5mil,650mil,T,360,Capacitor
+C42,SMD_Capacitor_0603,1395mil,1025mil,1395mil,1025mil,1422.5mil,1025mil,T,360,Capacitor
+C43,SMD_Capacitor_0603,1395mil,980mil,1395mil,980mil,1422.5mil,980mil,T,360,Capacitor
+C44,SMD_Capacitor_0603,1395mil,600mil,1395mil,600mil,1422.5mil,600mil,T,360,Capacitor
+C45,SMD_Capacitor_0603,1685mil,1130mil,1685mil,1130mil,1685mil,1102.5mil,T,270,Capacitor
+C46,SMD_Capacitor_0603,1395mil,890mil,1395mil,890mil,1422.5mil,890mil,T,360,Capacitor
+C47,SMD_Capacitor_0603,1945.001mil,850.001mil,1945.001mil,850.001mil,1917.501mil,850.001mil,T,180,Capacitor
+C48,SMD_Capacitor_0603,1945.001mil,1020.001mil,1945.001mil,1020.001mil,1917.501mil,1020.001mil,T,180,Capacitor
+C49,SMD_Capacitor_0603,1395mil,800mil,1395mil,800mil,1422.5mil,800mil,T,360,Capacitor
+C50,SMD_Capacitor_0603,1945mil,515mil,1945mil,515mil,1917.5mil,515mil,T,180,Capacitor
+C51,SMD_Capacitor_0603,1945.001mil,560.001mil,1945.001mil,560.001mil,1917.501mil,560.001mil,T,180,Capacitor
+C52,SMD_Capacitor_0603,1585.001mil,510.001mil,1585.001mil,510.001mil,1585.001mil,537.501mil,T,90,Capacitor
+C53,SMD_Capacitor_0603,2175mil,70mil,2175mil,70mil,2147.5mil,70mil,T,180,Capacitor
+C54,SMD_Capacitor_0603,1945.001mil,630.001mil,1945.001mil,630.001mil,1917.501mil,630.001mil,T,180,Capacitor
+C55,SMD_Capacitor_0603,2440mil,490mil,2440mil,490mil,2412.5mil,490mil,T,180,Capacitor
+C56,SMD_Capacitor_0603,1945.001mil,795.001mil,1945.001mil,795.001mil,1917.501mil,795.001mil,T,180,Capacitor
+C57,SMD_Capacitor_0603,2440mil,680mil,2440mil,680mil,2412.5mil,680mil,T,180,Capacitor
+C58,SMD_Capacitor_0603,1395mil,935mil,1395mil,935mil,1422.5mil,935mil,T,360,Capacitor
+C59,SMD_Capacitor_0603,1595mil,1130mil,1595mil,1130mil,1595mil,1102.5mil,T,270,Capacitor
+C60,SMD_Capacitor_0603,990mil,1045.001mil,990mil,1045.001mil,962.5mil,1045.001mil,T,180,Capacitor
+C61,SMD_Capacitor_0603,1945.001mil,965.001mil,1945.001mil,965.001mil,1917.501mil,965.001mil,T,180,Capacitor
+C62,SMD_Capacitor_0603,1945.001mil,910.001mil,1945.001mil,910.001mil,1917.501mil,910.001mil,T,180,Capacitor
+C63,SMD_Capacitor_0603,2115mil,895mil,2115mil,895mil,2087.5mil,895mil,T,180,Capacitor
+C64,SMD_Capacitor_0603,2115.001mil,850.001mil,2115.001mil,850.001mil,2087.501mil,850.001mil,T,180,Capacitor
+C65,SMD_Capacitor_0603,1945.001mil,685.001mil,1945.001mil,685.001mil,1917.501mil,685.001mil,T,180,Capacitor
+C66,SMD_Capacitor_0603,1945.001mil,740.001mil,1945.001mil,740.001mil,1917.501mil,740.001mil,T,180,Capacitor
+C67,Capacitor_Polarized_0603,465.5mil,1400mil,415mil,1400mil,438mil,1400mil,T,360,Capacitor Polarized
+C70,SMD_Capacitor_0603,465.315mil,1355.315mil,465.315mil,1355.315mil,437.815mil,1355.315mil,T,180,Capacitor
+C71,Capacitor_Polarized_0603,695.5mil,1340mil,645mil,1340mil,668mil,1340mil,T,360,Capacitor Polarized
+C73,SMD_Capacitor_0603,490.315mil,1135.315mil,490.315mil,1135.315mil,517.814mil,1135.315mil,T,360,Capacitor
+C68,Capacitor_Polarized_0603,295mil,1690.501mil,295mil,1640.001mil,295mil,1663.001mil,T,90,Capacitor Polarized
+C72,Capacitor_Polarized_0603,534.5mil,1545.001mil,585mil,1545.001mil,562mil,1545.001mil,T,180,Capacitor Polarized
+C78,SMD_Capacitor_0603,300mil,520mil,300mil,520mil,272.5mil,520mil,T,180,Capacitor
+C79,SMD_Capacitor_0603,1195.001mil,340.001mil,1195.001mil,340.001mil,1167.501mil,340.001mil,T,180,Capacitor
+C80,SMD_Capacitor_0603,2005.001mil,340.001mil,2005.001mil,340.001mil,2032.501mil,340.001mil,T,360,Capacitor
+C81,SMD_Capacitor_0603,2230.001mil,475.001mil,2230.001mil,475.001mil,2202.501mil,475.001mil,T,180,Capacitor
+J1,PCBComponent_1,1560.001mil,105.001mil,1560.001mil,105.001mil,1407.501mil,157.751mil,T,360,USB3 MicroB
+K1,JMPR2,2500.001mil,960.001mil,2550.001mil,960.001mil,2550.001mil,960.001mil,T,270,JMPR2
+K2,JMPR2,2500.001mil,1090.001mil,2550.001mil,1090.001mil,2550.001mil,1090.001mil,T,270,JMPR2
+K3,JMPR2,2500.001mil,1220.001mil,2550.001mil,1220.001mil,2550.001mil,1220.001mil,T,270,JMPR2
+L1,BLM21PG221SN1D_0805,1305.001mil,225.001mil,1305.001mil,225.001mil,1339.842mil,225.001mil,T,180,Ferrite Bead
+L2,BLM21PG221SN1D_0805,1955mil,90.001mil,1955.001mil,90.001mil,1989.842mil,90.001mil,T,180,Ferrite Bead
+L6,MPZ2012S601A,1385.001mil,1135.001mil,1385.001mil,1135.001mil,1350.159mil,1135.001mil,T,360,Ferrite Bead
+L7,MPZ2012S601A,2175mil,135mil,2175mil,135mil,2209.842mil,135mil,T,180,Ferrite Bead
+L9,MPZ2012S601A,2440mil,550mil,2440mil,550mil,2474.842mil,550mil,T,180,Ferrite Bead
+L10,MPZ2012S601A,2440mil,620mil,2440mil,620mil,2474.842mil,620mil,T,180,Ferrite Bead
+R1,SMD_Resistor_0603,2590mil,765mil,2590mil,765mil,2617.5mil,765mil,T,360,10K
+R2,SMD_Resistor_0603,2590mil,810mil,2590mil,810mil,2617.5mil,810mil,T,360,Resistor
+R3,SMD_Resistor_0603,2590.001mil,855.001mil,2590.001mil,855.001mil,2617.501mil,855.001mil,T,360,Resistor
+R4,SMD_Resistor_0603,1540mil,510mil,1540mil,510mil,1540mil,537.5mil,T,90,Resistor
+R5,SMD_Resistor_0603,2240.001mil,625.001mil,2240.001mil,625.001mil,2212.501mil,625.001mil,T,180,Resistor
+R6,SMD_Resistor_0603,2240.001mil,1120.001mil,2240.001mil,1120.001mil,2267.501mil,1120.001mil,T,360,"=Value"""""
+R7,SMD_Resistor_0603,2240.001mil,1065.001mil,2240.001mil,1065.001mil,2267.501mil,1065.001mil,T,360,Resistor
+R8,SMD_Resistor_0603,2240.001mil,1010.001mil,2240.001mil,1010.001mil,2267.501mil,1010.001mil,T,360,Resistor
+R12,SMD_Resistor_0603,710mil,990mil,710mil,990mil,682.5mil,990mil,T,180,Resistor
+R13,SMD_Resistor_0603,2100mil,1295mil,2100mil,1295mil,2100mil,1322.5mil,T,90,Resistor
+R14,SMD_Resistor_0603,710mil,945.001mil,710mil,945.001mil,682.5mil,945.001mil,T,180,Resistor
+R15,SMD_Resistor_0603,2055mil,1295mil,2055mil,1295mil,2055mil,1322.5mil,T,90,Resistor
+R11,SMD_Resistor_0603,2010.001mil,1295.001mil,2010.001mil,1295.001mil,2010.001mil,1322.501mil,T,90,Resistor
+R16,SMD_Resistor_0603,2190mil,1295mil,2190mil,1295mil,2190mil,1322.5mil,T,90,Resistor
+R17,SMD_Resistor_0603,2145mil,1295mil,2145mil,1295mil,2145mil,1322.5mil,T,90,Resistor
+R18,SMD_Resistor_0603,1905mil,1295mil,1905mil,1295mil,1905mil,1322.5mil,T,90,Resistor
+R19,SMD_Resistor_0603,1505mil,1295mil,1505mil,1295mil,1505mil,1322.5mil,T,90,Resistor
+R20,SMD_Resistor_0603,1555mil,1295mil,1555mil,1295mil,1555mil,1322.5mil,T,90,Resistor
+R21,SMD_Resistor_0603,1605mil,1295mil,1605mil,1295mil,1605mil,1322.5mil,T,90,Resistor
+R22,SMD_Resistor_0603,1655.001mil,1295.001mil,1655.001mil,1295.001mil,1655.001mil,1322.501mil,T,90,Resistor
+R23,SMD_Resistor_0603,1705mil,1295mil,1705mil,1295mil,1705mil,1322.5mil,T,90,Resistor
+R24,SMD_Resistor_0603,1755mil,1295mil,1755mil,1295mil,1755mil,1322.5mil,T,90,Resistor
+R25,SMD_Resistor_0603,1805mil,1295mil,1805mil,1295mil,1805mil,1322.5mil,T,90,Resistor
+R26,SMD_Resistor_0603,2240.001mil,900.001mil,2240.001mil,900.001mil,2267.501mil,900.001mil,T,360,Resistor
+R27,SMD_Resistor_0603,2240.001mil,790.001mil,2240.001mil,790.001mil,2267.501mil,790.001mil,T,360,Resistor
+R28,SMD_Resistor_0603,2240.001mil,680.001mil,2240.001mil,680.001mil,2267.501mil,680.001mil,T,360,Resistor
+R29,SMD_Resistor_0603,1855mil,1295mil,1855mil,1295mil,1855mil,1322.5mil,T,90,Resistor
+R30,SMD_Resistor_0603,2240.001mil,955.001mil,2240.001mil,955.001mil,2212.501mil,955.001mil,T,180,Resistor
+R31,SMD_Resistor_0603,2240.001mil,845.001mil,2240.001mil,845.001mil,2212.501mil,845.001mil,T,180,Resistor
+R32,SMD_Resistor_0603,2240.001mil,735.001mil,2240.001mil,735.001mil,2212.501mil,735.001mil,T,180,Resistor
+R33,SMD_Resistor_0603,895mil,90.001mil,895mil,90.001mil,922.5mil,90.001mil,T,360,Resistor
+R47,SMD_Resistor_0603,300mil,645.001mil,300mil,645.001mil,272.5mil,645.001mil,T,180,Resistor
+R48,SMD_Resistor_0603,300mil,700.001mil,300mil,700.001mil,272.5mil,700.001mil,T,180,Resistor
+R49,SMD_Resistor_0603,300mil,755.001mil,300mil,755.001mil,272.5mil,755.001mil,T,180,Resistor
+R50,SMD_Resistor_0603,695.314mil,1295.315mil,695.314mil,1295.315mil,667.814mil,1295.315mil,T,180,Resistor
+R53,SMD_Resistor_0603,695mil,1250mil,695mil,1250mil,667.5mil,1250mil,T,180,Resistor
+R55,SMD_Resistor_0603,695.314mil,1185.315mil,695.314mil,1185.315mil,722.814mil,1185.315mil,T,360,Resistor
+R51,SMD_Resistor_0603,730mil,1760mil,730mil,1760mil,757.5mil,1760mil,T,360,Resistor
+R52,SMD_Resistor_0603,730mil,1715.001mil,730mil,1715.001mil,757.5mil,1715.001mil,T,360,Resistor
+R54,SMD_Resistor_0603,730mil,1670mil,730mil,1670mil,702.5mil,1670mil,T,180,Resistor
+R58,SMD_Resistor_0603,300mil,475.001mil,300mil,475.001mil,327.5mil,475.001mil,T,360,Resistor
+R59,SMD_Resistor_0603,1235mil,600mil,1235mil,600mil,1235mil,627.5mil,T,90,Resistor
+SW1,218-4LPST,2889.999mil,789.999mil,2739.999mil,864.999mil,2739.999mil,864.999mil,T,360,SW_DIP_4Position
+SW3,218-4LPST,585mil,225.001mil,510mil,75.001mil,510mil,75.001mil,T,90,SW_DIP_4Position
+SW4,EVQPAC07K,205mil,230.001mil,205mil,230.001mil,116.418mil,357.953mil,T,0,PB_Switch
+U1,SP3010-04UTG,1725.001mil,335.001mil,1725.001mil,335.001mil,1686.001mil,318.001mil,T,180,ESD_4Channel
+U3,TSOP-5___NCP361SNT1G,875mil,205.001mil,875mil,205.001mil,922.245mil,167.599mil,T,180,USB Overvoltage Protection
+U5,PDIP300-P8,595mil,695.001mil,595mil,695.001mil,445mil,545.001mil,T,90,24AA1025-I/P
+U6,TI-DRC10-2400X1650TP_V,490.315mil,1240.315mil,490.315mil,1240.315mil,432.245mil,1279.685mil,T,0,TPS74801DRCR
+U7,TI-D8_N,495mil,1690.001mil,495mil,1690.001mil,400.512mil,1765.001mil,T,360,TPS76801QD
+u9,NX3225SA,2155.001mil,375.001mil,2155.001mil,375.001mil,2111.693mil,343.505mil,T,90,CrystalOSC_General
+U2,BGA121C80P11X11_1000X1000X100,1670.001mil,855.001mil,1670.001mil,855.001mil,1827.48mil,697.521mil,T,180,EZ FX3 USB
+R60,SMD_Resistor_0603,2725mil,1285mil,2725mil,1285mil,2725mil,1257.5mil,T,270,Resistor
+R61,SMD_Resistor_0603,2725.001mil,1490.001mil,2725.001mil,1490.001mil,2725.001mil,1462.501mil,T,270,Resistor
+R66,SMD_Resistor_0603,2675mil,1490mil,2675mil,1490mil,2675mil,1517.5mil,T,90,Resistor
+U11,LED_0603,2990.001mil,1280.001mil,2990.001mil,1280.001mil,2990.001mil,1250.501mil,T,90,LED
+U12,LED_0603,2985mil,1485mil,2985mil,1485mil,2985mil,1455.5mil,T,90,LED
+U16,SOT23127P600-8N,2830.001mil,1485.001mil,2830.001mil,1485.001mil,2869.371mil,1485.001mil,T,360,transistor NPN
+U18,SOT23127P600-8N,2830.001mil,1050.001mil,2830.001mil,1050.001mil,2869.371mil,1050.001mil,T,360,transistor NPN
+C39,SMD_Capacitor_0603,1395mil,1070mil,1395mil,1070mil,1422.5mil,1070mil,T,360,Capacitor
+J7,"4Pin_Verital_0.1"",2450mil""",1660mil,2450mil,1660mil,2450mil,1810mil,T,270,4 Pin Connector,
+J8,"4Pin_Verital_0.1"",2550mil""",1660mil,2550mil,1660mil,2550mil,1810mil,T,270,4 Pin Connector,
+TP3,TESTPIN,2550mil,1340mil,2550mil,1340mil,2550mil,1340mil,T,0,TESTPIN
+TP4,TESTPIN,2450mil,1340mil,2450mil,1340mil,2450mil,1340mil,T,0,TESTPIN
+R36,SMD_Resistor_0603,2035mil,1605mil,2035mil,1605mil,2062.5mil,1605mil,T,360,10k
+J9,"3Pin_Verital_0.1_JUMOER""",2925mil,1705mil,2925mil,1705mil,2825mil,1705mil,T,360,3 Pin Connector
